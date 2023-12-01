@@ -1,5 +1,15 @@
 # @supabase-cache-helpers/postgrest-react-query
 
+## 1.2.7
+
+### Patch Changes
+
+- f2ca765: chore: upgrade supabase-js to 2.38.5
+- f2ca765: chore: upgrade postgrest-js to 1.9.0
+- Updated dependencies [f2ca765]
+- Updated dependencies [f2ca765]
+  - @supabase-cache-helpers/postgrest-core@0.2.7
+
 ## 1.2.6
 
 ### Patch Changes
